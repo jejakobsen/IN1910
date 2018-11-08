@@ -5,3 +5,5 @@ It did however work with the secondlast value.
 
 The animation from the __double_pendulum__ scipt did also move faster
 than the .mp4 file that was made.
+
+Collaborator: Vidar Lunde Olaisen
